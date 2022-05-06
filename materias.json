@@ -18,5 +18,133 @@
      "363":
      [
           "CALCULO DIFERENCIAL E INTEGRAL", "09:20 - 12:00"
+     ],
+     "364":
+     [
+          "ESTRUTURA DE DADOS", "07:30 - 09:10"
+     ],
+     "365":
+     [
+          "ORGANIZACAO E ARQUITETURA DE COMPUTADORES", "13:30 - 15:10"
+     ],
+     "366":
+     [
+          "GEOMETRIA ANALITICA", "15:20 - 17:00"
+     ],
+     "367":
+     [
+          "REDES DE COMPUTADORES", "09:20 - 11:00"
+     ],
+     "368":
+     [
+          "TEORIA DOS GRAFOS", "13:30 - 15:10"
+     ],
+     "369":
+     [
+          "PROBABILIDADE E ESTATISTICA", "07:30 - 09:10"
+     ],
+     "370":
+     [
+          "ALGEBRA LINEAR", "15:20 - 17:00"
+     ],
+     "371":
+     [
+          "PROGRAMCAO 2","13:30 - 15:10"
+     ],
+     "372":
+     [
+          "PROGRAMCAO 3","15:20 - 17:00"
+     ],
+     "373":
+     [
+          "PROJETO E ANALISE DE ALGORITMOS","17:10 - 18:50"
+     ],
+     "374":
+     [
+          "TEORIA DA COMPUTACAO", "13:30 - 15:10"
+     ],
+     "375":
+     [
+          "SISTEMAS OPERACIONAIS", "13:30 - 15:10"
+     ],
+     "376":
+     [
+          "COMPILADORES", "17:10 - 18:50"
+     ],
+     "377":
+     [
+          "INTELIGENCIA ARTIFICIAL", "15:20 - 17:00"
+     ],
+     "378":
+     [
+          "COMPUTACAO GRAFICA", "11:10 - 12:50"
+     ],
+     "379":
+     [
+          "PROJETO DE DESENVOLVIMENTO DE SISTEMAS", "09:20 - 12:00"
+     ],
+     "380":
+     [
+          "METODOLOGIA DE PESQUISA E DO TRABALHO", "09:20 - 11:00"
+     ],
+     "381":
+     [
+          "CALCULO 3", "15:20 - 18:50"
+     ],
+     "382":
+     [
+          "CONCEITOS DE LINGUAGEM DE PROGRAMACAO", "13:30 - 15:00"
+     ],
+     "383":
+     [
+          "APRENDIZAGEM DE MAQUINA", "17:10 - 18:50"
+     ],
+     "384":
+     [
+          "SISTEMAS DIGITAIS", "15:20 - 17:00"
+     ],
+     "385":
+     [
+          "REDES NEURAIS E APRENDIZADO PROFUNDO", "11:10 - 12:50"
+     ],
+     "386":
+     [
+          "FPGA", ""
+     ],
+     "387":
+     [
+          "INTERACAO HOMEM-MAQUINA", "07:30 - 09:10"
+     ],
+     "388":
+     [
+          "PROCESSAMENTO DIGITAL DE IMAGENS", "09:20 - 11:00"
+     ],
+     "389":
+     [
+          "COMPUTACAO EVOLUCIONARIA", "09:20 - 11:00"
+     ],
+     "390":
+     [
+          "SISTEMAS EMBARCADOS", ""
+     ],
+     "391":
+     [
+          "GERENCIA DE PROJETO", "17:10 - 18:50"
+     ],
+     "392":
+     [
+          "VISAO COMPUTACIONAL", "15:20 - 17:00"
+     ],
+     "393":
+     [
+          "CIENCIA DE DADOS", "15:20 - 17:00"
+     ],
+     "394":
+     [
+          "MICROCONTROLADORES E APLICACOES", "13:30 - 15:10"
+     ],
+     "395":
+     [
+          "SEGURANÇA DE SISTEMAS COMPUTACIONAIS", "09:20 - 11:00"
      ]
 }
